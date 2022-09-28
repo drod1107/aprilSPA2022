@@ -29,6 +29,7 @@
     "mongoose": "^6.3.4",
     "navigo": "^8.11.1",
     "parcel": "^2.5.0",
+    "parcel-bundler": "^1.12.5",
     "yargs-parser": ">=13.1.2"
   }
 }
